@@ -60,4 +60,4 @@ for key, value in quiz.items():
         print("")
         print("")
 
-print("You got " + str(score) + "out of 9 question correctly")
+print("You got " + str(score) + " out of 9 question correctly")
