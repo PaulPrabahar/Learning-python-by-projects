@@ -18,5 +18,5 @@ def qrcode_generator(text):
     img.save("qrimg.png")
 
 
-url = input("Enter your url : ")
+url = input("Enter your url: ")
 qrcode_generator(url)
